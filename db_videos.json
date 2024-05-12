@@ -1,167 +1,184 @@
-{
-    "videos": [
-        {
-            "id": 1,
-            "title": "How to design a awesome GitHub profile readme in bangla-2021",
-            "description": "How to design a awesome github profile readme in bangla-2021 #Optimize_your_GitHub My gitHub Profile:https://github.com/MotalibHossain My readMe.md link:https://github.com/MotalibHossain/Mot... Readme generator Tools ----------------------- 1.https://arturssmirnovs.github.io/gith... Those Awesome Profile Inspiration here:--------------------------------------- https://github.com/EddieHubCommunity/...",
-            "author": "Motalib Hossain",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "May 10, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/crnMVpqJ3yc?si=M0qUnqTIdbPntgya",
-            "thumbnail": "https://rb.gy/nkvge8",
-            "tags": ["javascript", "react", "tips"],
-            "likes": 0,
-            "unlikes": 0
-        },
-        {
-            "id": 7,
-            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
-            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-            "author": "Atikur Rahman",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Oct 15, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
-            "thumbnail": "https://chriscourses.s3.amazonaws.com/thumbnails/Asset%2031_1624990712491.png",
-            "tags": ["tailwind", "css", "ui"],
-            "likes": 200,
-            "unlikes": 20
-        },
-        {
-            "id": 2,
-            "title": "VS Code Snippets - Boost your productivity with User Snippets",
-            "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
-            "author": "Motalib",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "April 25, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
-            "thumbnail": "https://rb.gy/nkvge8",
-            "tags": ["vscode", "tips"],
-            "likes": 0,
-            "unlikes": 0
-        },
-        {
-            "id": 3,
-            "title": "How to upload code/file in GitHub using git from A to Z in 2021",
-            "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
-            "author": "Macro",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "March 11, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
-            "thumbnail": "https://rb.gy/1ird4u",
-            "tags": ["tailwind", "css"],
-            "likes": 0,
-            "unlikes": 0
-        },
-        {
-            "id": 7,
-            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
-            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-            "author": "Atikur rahman",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Oct 15, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
-            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
-            "tags": ["tailwind", "css", "ui"],
-            "likes": 200,
-            "unlikes": 20
-        }
-        ,
-        {
-            "id": 4,
-            "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
-            "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
-            "author": "Lassit",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Jan 06, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
-            "thumbnail": "https://rb.gy/nkvge8",
-            "tags": ["debounce", "javascript", "tips"],
-            "likes": 100,
-            "unlikes": 10
-        },
-        {
-            "id": 5,
-            "title": "SASS Tutorial in English - Overview of SASS",
-            "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
-            "author": "Motalib",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Nov 22, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube.com/embed/rxl-UaC2-lM?si=8X__JeAVkVf-2XiP",
-            "thumbnail": "https://rb.gy/1ird4u",
-            "tags": ["sass", "css", "ui"],
-            "likes": 80,
-            "unlikes": 20
-        },
-        {
-            "id": 6,
-            "title": "How to upload code/file in GitHub using git from A to Z in 2021",
-            "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
-            "author": "Macro",
-            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-            "date": "Nov 08, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
-            "thumbnail": "https://rb.gy/nkvge8",
-            "tags": ["react", "router", "javascript"],
-            "likes": 800,
-            "unlikes":80
-        }
+[
+  {
+    "id": 22,
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "id": 2,
+      "username": "Motalib",
+      "email": "motalibhossainrbk333@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [],
+    "Post_Liked": [
+      {
+        "id": 145,
+        "like": true,
+        "user": 1,
+        "post": 22
+      },
+      {
+        "id": 147,
+        "like": true,
+        "user": 2,
+        "post": 22
+      }
     ],
-    "tags": [
-        {
-            "id": 1,
-            "title": "javascript"
+    "title": "পুলিশ বোধ হয় মানুষ নয়, এই পৃথিবীর বাহিরের ভিন্ন কোন গ্রহের প্রাণী!",
+    "slug": "bangladesh234",
+    "description": "আমি পেশায় একজন পুলিশ। বাংলাদেশ পুলিশ বাহিনীর দুই লক্ষ সদস্যের মধ্যে একজন হতে পেরে নিজেকে গর্বিত মনেকরি। কে কি বল্ল সেটার তৌয়াক্ষা না করে নিজের পেশাকে শ্রদ্ধার সাথে সবার উপরে রাখি। পেশা হিসেবে সরকারী চাকরি করে মানুষের পাশে দাড়ানোর ও সেবা করার সুযোগ পেয়েছি, এর চাইতে চরম আনন্দের আর কি হতে পারে।",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/bangladesh-police.jpg",
+    "publish_date": "2023-07-21T20:16:36.114939Z",
+    "update_date": "2023-11-09T16:51:16.747064Z"
+  },
+  {
+    "id": 21,
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "id": 3,
+      "username": "motalib",
+      "email": "motalibhossainrbk33@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [],
+    "Post_Liked": [
+      {
+        "id": 148,
+        "like": true,
+        "user": 1,
+        "post": 21
+      }
+    ],
+    "title": "এক দিনের জন্য Facebook বন্ধ হলে কি কি ঘটতে পারে?",
+    "slug": "condition",
+    "description": "হ্যালো বন্ধুরা, আপনারা কি কখনো এমনটা চিন্তা করেছেন যে, এক দিনের জন্য ফেইসবুক বন্ধ হলে কি কি আশ্চর্যকর ঘটনা ঘটতে পারে? আমাদের বাস্তব জীবনে চলাচল সহ কর্ম জীবনে কি ধরনের আমুল পরিবর্তন লক্ষ্য করা যেতে পারে?",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/faceook-closed.jpg",
+    "publish_date": "2023-07-21T20:15:53.572011Z",
+    "update_date": "2023-07-21T21:13:45.188955Z"
+  },
+  {
+    "id": 20,
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "id": 5,
+      "username": "Hossain",
+      "email": "hossain1235@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [],
+    "Post_Liked": [],
+    "title": "ই-মেইল ব্যবস্থায় বড় বিপর্যয় প্রোগ্রামিং ত্রুটির কারণে",
+    "slug": "fj894nyw4h",
+    "description": "ই-মেইল ব্যবস্থায় বড় বিপর্যয়প্রোগ্রামিং ত্রুটির কারণে এই দিন ইন্টারনেটের মাধ্যমে ই-মেইল আদান-প্রদানের ব্যবস্থায় বড় ধরনের বিপর্যয় হয়। প্রাপকের ঠিকানায় না পৌঁছে লাখ লাখ ই-মেইল ‘আনসেন্ট’ অবস্থায় থাকে। গ্রিনিচ মান সময় (জিএমটি) অনুযায়ী, ১৯৯৭ সালের ১৭ জুলাই সকাল ৬টা ৩০ মিনিটে যুক্তরাষ্ট্রের ভার্জিনিয়ার একজন কম্পিউটার অপারেটর ইন্টারনেট ঠিকানা হালনাগাদ করার একটি",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/faceook-closed_crsGKDn.jpg",
+    "publish_date": "2023-07-21T12:23:17.748916Z",
+    "update_date": "2023-07-21T21:13:50.739622Z"
+  },
+  {
+    "id": 19,
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [],
+    "Post_Liked": [],
+    "title": "কম্পিউটার থেকে অ্যান্ড্রয়েড ফোনে ছবি ও ফাইল পাঠাবেন যেভাবে",
+    "slug": "ekxygt6t0d",
+    "description": "কম্পিউটার থেকে অ্যান্ড্রয়েড ফোনে ছবি বা ফাইল পাঠানোর জন্য নিয়ারবাই শেয়ার অ্যাপ চালুর পর ফোনের গুগল ফোল্ডার থেকে নিয়ারবাই শেয়ারের রিসিভ অপশনে ক্লিক করতে হবে। এরপর কম্পিউটারে চালু থাকা নিয়ারবাই শেয়ার অ্যাপ থেকে গুগল অ্যাকাউন্টে সাইন ইন করতে হবে।",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/prothomalo-bangla_2023-07_7688d3f2-daa1-4610-9d82-0fbc20a54cbe_computer_user_reuters.jpg",
+    "publish_date": "2023-07-21T12:21:36.698676Z",
+    "update_date": "2023-11-09T16:52:38.056672Z"
+  },
+  {
+    "id": 14,
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [
+      {
+        "custom_id": "d0389d7f",
+        "comment": "Nice comment.",
+        "publish_date": "2023-06-19",
+        "user": {
+          "username": "Admin"
         },
-        {
-            "id": 2,
-            "title": "react"
-        },
-        {
-            "id": 3,
-            "title": "tips"
-        },
-        {
-            "id": 4,
-            "title": "vscode"
-        },
-        {
-            "id": 5,
-            "title": "tailwind"
-        },
-        {
-            "id": 6,
-            "title": "css"
-        },
-        {
-            "id": 7,
-            "title": "debounce"
-        },
-        {
-            "id": 8,
-            "title": "sass"
-        },
-        {
-            "id": 9,
-            "title": "ui"
-        },
-        {
-            "id": 10,
-            "title": "router"
-        }
-    ]
-}
+        "post": 14
+      }
+    ],
+    "Post_Liked": [
+      {
+        "id": 142,
+        "like": true,
+        "user": 1,
+        "post": 14
+      }
+    ],
+    "title": "উইন্ডোজের যে দুটি সংস্করণ সমর্থন করবে না গুগল ড্রাইভ",
+    "slug": "kb7s7z0sura",
+    "description": "ব্যক্তিগত বা অফিসের কাজে আমরা অনেকেই নিয়মিত গুগল ড্রাইভ ব্যবহার করে থাকি। অনলাইনে নিরাপদে ফাইল সংরক্ষণ ও আদান-প্রদানের সুযোগ থাকায় কেউ আবার গুরুত্বপূর্ণ অনেক তথ্যও জমা রাখেন অনলাইন",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/pp.jpg",
+    "publish_date": "2023-06-08T17:43:50.754968Z",
+    "update_date": "2023-07-16T16:36:44.808877Z"
+  },
+  {
+    "id": 13,
+    "category": {
+      "id": 2,
+      "name": "Programming"
+    },
+    "author": {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "description": null
+    },
+    "Post_Comment": [],
+    "Post_Liked": [
+      {
+        "id": 137,
+        "like": true,
+        "user": 3,
+        "post": 13
+      },
+      {
+        "id": 141,
+        "like": true,
+        "user": 1,
+        "post": 13
+      }
+    ],
+    "title": "ফ্রিল্যান্সিং হলো স্বাধীন বা মুক্তপেশা-475",
+    "slug": "asdf",
+    "description": "ফ্রিল্যান্সিং হলো স্বাধীন বা মুক্তপেশা-475ফ্রিল্যান্সিং হলো স্বাধীন বা মুক্তপেশা-475 ফ্রিল্যান্সিং হলো স্বাধীন বা মুক্তপেশা-475",
+    "published": true,
+    "image": "http://localhost:8000/media/Articles/328131533_926197261852450_4735273932547771676_n_ra6k5Ml.jpg",
+    "publish_date": "2023-06-08T17:41:30.865669Z",
+    "update_date": "2023-06-15T18:11:55.433423Z"
+  }
+]
